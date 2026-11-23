@@ -1,7 +1,7 @@
 
 Ticket ID,Date Created,Employee,Department,Category,Issue Description,Priority,Impact,Status,Assigned Technician,Resolution
 INC001,2026-11-23,John Smith,Finance,Software,Outlook is not synchronizing emails,Medium,Medium,Open,Tier 1 Support,Pending Further Investigation
-INC002,2026-11-23,Mary Johnson,Human Resources,Account Access,User account is locked,High,Medium,Open,Tier 1 Support,Pending
+INC002,2026-11-23,Mary Johnson,Human Resources,Account Access,User account is locked,High,Medium,Open,Tier 1 Support,resolved
 INC003,2026-11-23,David Brown,Legal,Hardware,Office printer is not responding,Low,Low,Open,Tier 1 Support,Pending
 INC004,2026-11-23,Sarah Wilson,Finance,Network,Unable to access websites,High,High,Open,Tier 1 Support,Pending
 INC005,2026-11-23,James Taylor,Legal,Permissions,Unable to access shared folder,Medium,Medium,Open,Tier 1 Support,Pending
