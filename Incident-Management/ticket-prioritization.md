@@ -1,58 +1,39 @@
+# Ticket Prioritization
 
-# Ticket Prioritization Guide
+## Overview
 
-## Purpose
+During this lab, I worked with different IT support incidents and learned how to decide which issues should be handled first.
 
-This document explains how incidents are
-evaluated and prioritized in our simulated
-IT Service Desk environment.
+Not every problem has the same level of urgency. Some issues affect important services, while others have a smaller impact on daily work.
 
-## 1. Impact
+## Priority Levels
 
-Impact measures how many users or business
-services are affected by an incident.
+| Priority | Description | Example |
+|---|---|---|
+| P1 – Critical | A major issue affecting many users or important company services. | Company network is down. |
+| P2 – High | An issue that prevents an employee from doing important work. | Employee cannot access their account. |
+| P3 – Medium | A problem that affects work but may have a temporary workaround. | Outlook is not syncing emails. |
+| P4 – Low | A minor issue that affects one user or a non-critical service. | One employee cannot print. |
 
-- High: Multiple departments or critical services.
-- Medium: A department or several users.
-- Low: One user with limited disruption.
+## Impact and Urgency
 
-## 2. Urgency
+When reviewing a ticket, I consider two things:
 
-Urgency measures how quickly an incident
-requires attention.
+- **Impact:** How many users are affected and how much their work is interrupted.
+- **Urgency:** How quickly the problem needs attention.
 
-- High: Immediate business disruption.
-- Medium: Work is affected but a workaround exists.
-- Low: Minor inconvenience.
+Both help determine the priority of an incident.
 
-## 3. Priority Levels
+## My Incident Examples
 
-### P1 - Critical
-Major business disruption affecting multiple
-users or critical services.
+| Ticket | Issue | Priority | Current Status |
+|---|---|---|---|
+| INC001 | Outlook not syncing emails | P3 | Pending Investigation |
+| INC002 | Account locked | P2 | Resolved (Simulated) |
+| INC003 | Printer not responding | P4 | Escalated to Tier 2 |
 
-### P2 - High
-Significant disruption affecting a department
-or important business function.
+## What I Learned
 
-### P3 - Medium
-A single user or limited group experiencing
-a problem affecting productivity.
+Working through these examples helped me understand that troubleshooting is not only about fixing technical problems. It is also important to understand how an issue affects the user, keep clear notes, and know when to escalate a ticket.
 
-### P4 - Low
-Minor technical issue with limited business impact.
-
-## 4. Escalation
-
-Incidents should be escalated when:
-
-- The issue exceeds Tier 1 permissions.
-- The problem requires advanced technical access.
-- The issue affects critical business services.
-- Initial troubleshooting does not resolve the issue.
-
-## 5. Important Note
-
-Priority assignments in this laboratory are
-educational examples and may vary depending
-on organizational policies.
+*Note: These incidents are fictional scenarios created for learning purposes. The troubleshooting results were simulated.*
